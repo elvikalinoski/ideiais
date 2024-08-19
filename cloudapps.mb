@@ -1,0 +1,26 @@
+# Colocando ideias no "papel"
+
+# Uma aplicação para provesionamento e sustentação de aplicações em cloud.
+
+# Estrutura
+
+# Frontend
+- Painel onde:
+  - Será possivel gerenciar as aplicações
+  - Gerenciar os custos do ambiente
+  - Integrando com o backend
+  - Ter logs da aplicação (opcional)
+    - Integrando com a API de monitoramento
+
+# Backend
+  - Integração dom git
+    - Validação de mudanças
+    - Aplicar nos mudanças no ambiente
+    - Gerar dockerfile com a analise do código do usuário (usar IA)
+  - Integração com clouds publicas
+    - Provisionamento das infras estrutura
+    - Integração com as APIs para geração de relatório
+
+# Monitoramento
+  - Integrar com a infraestrutura
+  - Realizar a gestão de logs 
